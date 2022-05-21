@@ -1,0 +1,33 @@
+*{
+    margin-top: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row .col-md-3{
+    text-align: center;
+    background-color:  rgba(174, 127, 10, 0.8);
+    padding: 50px;
+    text-decoration: none;
+}
+
+.row .copyright{
+    padding: 0px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.fontawesome .fab{
+    color: black;
+    padding: 7px;
+    margin: 11px;   
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 100% ;
+}
+
+.fontawesome .fab:hover{
+    background-color: rgba(174, 127, 10, 0.8);
+}

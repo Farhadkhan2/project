@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner .products{
+    margin-top: -200px;
+    text-transform: uppercase;
+    font-size: 70px;
+}
+
+.product{
+    margin-top: 230px;
+}
+
+
+
+.title{
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+/*.title::before{
+    content: 'feature';
+    font-size: 56px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,-60%);
+    color: rgba(174, 127, 10, 0.8);
+    opacity: 0.7;
+    font-family: 'Ms Madi', cursive;
+}*/
+.services .title::before{
+    content: 'our';
+}
+
+.product a{
+    text-decoration: none;
+    color: black;
+}
+.product a .card{
+    border: 0;
+}
+.product a .card img{
+    transition: 0.5s;
+}
+.product a .card img:hover{
+    opacity: 0.6;
+    transform: scale(0.95);}
+
+
+
+
+
+
+    

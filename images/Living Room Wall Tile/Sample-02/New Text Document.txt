@@ -1,0 +1,3 @@
+size 45x90
+finish glossy
+Living Wall Tile
